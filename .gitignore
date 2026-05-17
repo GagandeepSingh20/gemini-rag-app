@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Environment variables / secrets
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Mac files
+.DS_Store
+
+# Logs
+*.log
+
+# FAISS vector database files
+*.faiss
+*.pkl
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Google Colab temporary files
+/content/
+
+# Uploaded PDFs or private documents
+data/
+*.pdf
+
+# OS files
+Thumbs.db
